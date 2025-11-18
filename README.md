@@ -1,6 +1,3 @@
-Here's the markdown code you can copy:
-
-```markdown
 # 🍽️ GoodFoods AI – Intelligent Reservation Concierge
 
 **An AI-powered dining assistant that connects customer intent with seamless restaurant bookings.**
@@ -157,13 +154,26 @@ We welcome contributions! Please feel free to submit issues or pull requests.
 
 ---
 
-## 📄 License
+## 🛠️ Technologies Used
 
-[Insert License Information]
+- **Frontend:** Streamlit
+- **LLM:** Llama 3.1 (via Hugging Face Inference API)
+- **Database:** SQLite
+- **Architecture:** Planner-Executor Pattern
+- **Languages:** Python, Hinglish (Hindi + English)
 
 ---
 
-**Built with ❤️ to make dining reservations effortless**
-```
+## 📄 License
 
-Just copy and paste this into your README.md file!
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+---
+
+**Built with ❤️ for seamless dining experiences**

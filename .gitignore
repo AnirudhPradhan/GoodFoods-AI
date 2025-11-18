@@ -2,3 +2,5 @@ data
 venv
 .env
 tools2.py
+/__pycache__/
+*.pyc
