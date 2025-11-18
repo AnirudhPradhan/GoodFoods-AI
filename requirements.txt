@@ -1,5 +1,6 @@
 streamlit
-groq
 pandas
 faker
 tenacity
+dotenv
+huggingface_hub
