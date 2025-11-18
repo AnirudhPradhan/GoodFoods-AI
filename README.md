@@ -148,12 +148,6 @@ GoodFoods AI serves as a **24/7 autonomous concierge** that delivers:
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Please feel free to submit issues or pull requests.
-
----
-
 ## 🛠️ Technologies Used
 
 - **Frontend:** Streamlit
