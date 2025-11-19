@@ -135,7 +135,7 @@ def search_restaurants(
 # ---------------------------------------------
 # SYNTHETIC RESTAURANT INFO  (LLama-generated externally)
 # ---------------------------------------------
-def synthetic_restaurant_info(name: str, city: str = "Unknown", data: dict = None):
+def synthetic_restaurant_info(name: str, city: str = "Unknown", data: Optional[dict] = None):
     """
     THIS TOOL DOES NOT GENERATE INFO.
     Llama generates the info, passes it here.
