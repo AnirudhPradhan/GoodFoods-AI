@@ -8,7 +8,7 @@ GoodFoods AI is an end-to-end conversational agent that transforms how people di
 
 ## 🎥 Demo Video
 
-> **[Insert Link to Demo Video Here]**  
+> **[Click to Redirect](https://drive.google.com/file/d/1ZtILtEL3Gq8oDRFyDIvMbUCHt2bFDd4x/view?usp=sharing)**  
 > *See the agent in action: discovery, context switching, and instant bookings.*
 
 ---
